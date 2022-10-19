@@ -9,7 +9,7 @@ export default function Projects() {
                 Apps I Have Built
             </h1>
             <p className="summary">
-                These are some samples of the projects I have completed.
+                Here are some examples of the projects I've completed.
             </p>
             </div>
             <div className="project_links">
